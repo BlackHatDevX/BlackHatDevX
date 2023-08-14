@@ -1,5 +1,18 @@
 ### Hi there 👋
+<div style="text-align:center align-items: centre">
+## Contact
 
+Feel free to connect with me if you have any questions, suggestions, or just want to say hello!
+
+- **Portfolio**: [bit.ly/jashgro](https://bit.ly/jashgro)
+- **Telegram**: [@deveIoper_x](https://telegram.dog/deveIoper_x)
+- **LinkedIn**: [Jash Gro](https://www.linkedin.com/in/jash-gro)
+- **Instagram**: [@jash_gro](https://www.instagram.com/jash_gro/)
+- **Twitter**: [@jash_gro](https://twitter.com/jash_gro)
+
+Let's connect and collaborate!
+
+</div>
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
