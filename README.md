@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div style="text-align:center align-items: centre">
+<div style="text-align:center align-items:centre display:flex justify-content:centre">
+  
 ## Contact
-
 Feel free to connect with me if you have any questions, suggestions, or just want to say hello!
 
 - **Portfolio**: [bit.ly/jashgro](https://bit.ly/jashgro)
