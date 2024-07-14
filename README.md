@@ -25,18 +25,22 @@
 
 ### MERN Stack
 
-1. [Chotu.ly - URL Shortner](https://github.com/BlackHatDevX/CHOTU.LY-SHORTNER) - A URL shortening service developed with the MERN stack.
-2. [Quickeyfy - Freelance site](https://github.com/BlackHatDevX/UPI-PAYMENT-GATEWAY-QUIKEYFY) - A freelance platform with integrated UPI payment gateway.
+1. [QuickBite - Food Delivery App](https://quickbitesjash.web.app/) - A Food Delivery Web App with Stripe Payment Gateway - Source Code is Pvt. for now.
+2. [Chotu.ly - URL Shortner](https://github.com/BlackHatDevX/CHOTU.LY-SHORTNER) - A URL shortening service developed with the MERN stack.
+3. [Quickeyfy - Freelance site](https://github.com/BlackHatDevX/UPI-PAYMENT-GATEWAY-QUIKEYFY) - A freelance platform with integrated UPI payment gateway.
+
 
 ### Miscellaneous
 
-1. [UPI Payment Gateway](https://github.com/BlackHatDevX/UPI-payment-gateway) - A standalone UPI payment gateway implementation.
-2. [ifsc-Checker](https://github.com/BlackHatDevX/IFSC-checker) - An IFSC code validation tool.
-3. [Weather App](https://github.com/BlackHatDevX/Weather-App-V2) - A weather forecasting application.
-4. [yoFood](https://github.com/BlackHatDevX/YoFood) - A food ordering app.
-5. [Portfolio](https://bit.ly/jashgro) - My personal portfolio website.
-6. [BMI Calculator Plus](https://bit.ly/BMICalculatorPlusV2) - A BMI calculator with additional features.
-7. [JS-Calendar](https://github.com/BlackHatDevX/Javascript-calendar) - A customizable JavaScript calendar component.
+1. [Ai Voice Generator - Modi Edition](https://github.com/BlackHatDevX/Modi-Ai-Voice-Generator) - Pyhthon script which extacts audio from youtube links and convert it into Modi's Voice.
+2. [UPI Payment Gateway](https://github.com/BlackHatDevX/UPI-payment-gateway) - A standalone UPI payment gateway implementation.
+3. [ifsc-Checker](https://github.com/BlackHatDevX/IFSC-checker) - An IFSC code validation tool.
+4. [Weather App](https://github.com/BlackHatDevX/Weather-App-V2) - A weather forecasting application.
+5. [yoFood](https://github.com/BlackHatDevX/YoFood) - A food ordering app.
+6. [Portfolio](https://bit.ly/jashgro) - My personal portfolio website.
+7. [BMI Calculator Plus](https://bit.ly/BMICalculatorPlusV2) - A BMI calculator with additional features.
+8. [onRender Pinger](https://github.com/BlackHatDevX/Render-Pinger) - This tool helps to keep your Render hosting live forever.
+9. [JS-Calendar](https://github.com/BlackHatDevX/Javascript-calendar) - A customizable JavaScript calendar component.
 
 </div>
 
