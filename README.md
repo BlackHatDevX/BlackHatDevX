@@ -17,6 +17,13 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+### Flutter
+
+1. [Quiz App](https://github.com/BlackHatDevX/Quiz-App-Flutter) - A beautiful and interactive quiz app built using Flutter, supporting both Android and iOS.
+2. [Expense Tracker App](https://github.com/BlackHatDevX/Expense-Tracker-Flutter) - A beautifully designed expense tracker app built with Flutter, offering a seamless and intuitive experience to manage your finances.
+3. [Dice Roller](https://github.com/BlackHatDevX/dice_roller) - A simple dice roller app built using Flutter.
+4. [Coin Tosser App](https://github.com/BlackHatDevX/coin_tosser) - A simple yet engaging coin toss app built using Flutter.
+5. [Dowry Calculator App](https://github.com/BlackHatDevX/Dowry-Calcutator-Flutter) - A fun, meme-style app built using Flutter that calculates dowry amounts based on various inputs like income, land ownership, social media influence, and more.
 
 ### React Native
 
