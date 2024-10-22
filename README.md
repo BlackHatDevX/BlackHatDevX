@@ -17,6 +17,7 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+
 ### Flutter
 
 1. [Quiz App](https://github.com/BlackHatDevX/Quiz-App-Flutter) - A beautiful and interactive quiz app built using Flutter, supporting both Android and iOS.
@@ -39,15 +40,18 @@
 
 ### Miscellaneous
 
-1. [Ai Voice Generator - Modi Edition](https://github.com/BlackHatDevX/Modi-Ai-Voice-Generator) - Pyhthon script which extacts audio from youtube links and convert it into Modi's Voice.
-2. [UPI Payment Gateway](https://github.com/BlackHatDevX/UPI-payment-gateway) - A standalone UPI payment gateway implementation.
-3. [ifsc-Checker](https://github.com/BlackHatDevX/IFSC-checker) - An IFSC code validation tool.
-4. [Weather App](https://github.com/BlackHatDevX/Weather-App-V2) - A weather forecasting application.
-5. [yoFood](https://github.com/BlackHatDevX/YoFood) - A food ordering app.
-6. [Portfolio](https://bit.ly/jashgro) - My personal portfolio website.
-7. [BMI Calculator Plus](https://bit.ly/BMICalculatorPlusV2) - A BMI calculator with additional features.
-8. [onRender Pinger](https://github.com/BlackHatDevX/Render-Pinger) - This tool helps to keep your Render hosting live forever.
-9. [JS-Calendar](https://github.com/BlackHatDevX/Javascript-calendar) - A customizable JavaScript calendar component.
+1.    #### [</>LEETCODE](https://github.com/BlackHatDevX/LeetCode)
+2. [Ai Voice Generator - Modi Edition](https://github.com/BlackHatDevX/Modi-Ai-Voice-Generator) - Pyhthon script which extacts audio from youtube links and convert it into Modi's Voice.
+3. [UPI Payment Gateway](https://github.com/BlackHatDevX/UPI-payment-gateway) - A standalone UPI payment gateway implementation.
+4. [ifsc-Checker](https://github.com/BlackHatDevX/IFSC-checker) - An IFSC code validation tool.
+5. [Weather App](https://github.com/BlackHatDevX/Weather-App-V2) - A weather forecasting application.
+6. [yoFood](https://github.com/BlackHatDevX/YoFood) - A food ordering app.
+7. [Portfolio](https://bit.ly/jashgro) - My personal portfolio website.
+8. [BMI Calculator Plus](https://bit.ly/BMICalculatorPlusV2) - A BMI calculator with additional features.
+9. [onRender Pinger](https://github.com/BlackHatDevX/Render-Pinger) - This tool helps to keep your Render hosting live forever.
+10. [JS-Calendar](https://github.com/BlackHatDevX/Javascript-calendar) - A customizable JavaScript calendar component.
+
+ 
 
 </div>
 
