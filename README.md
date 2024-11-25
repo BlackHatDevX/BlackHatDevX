@@ -37,6 +37,8 @@
 2. [Chotu.ly - URL Shortner](https://github.com/BlackHatDevX/CHOTU.LY-SHORTNER) - A URL shortening service developed with the MERN stack.
 3. [Quickeyfy - Freelance site](https://github.com/BlackHatDevX/UPI-PAYMENT-GATEWAY-QUIKEYFY) - A freelance platform with integrated UPI payment gateway.
 
+### Java Springboot
+1. [YouTube Video Downloader API](https://github.com/BlackHatDevX/Youtube-Downloader-API-SpringBoot) - This project is a Spring Boot application that provides an API for downloading YouTube videos and serving them via HTTP. 
 
 ### Miscellaneous
 
