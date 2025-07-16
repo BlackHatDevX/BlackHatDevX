@@ -1,53 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jash+Gro+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+Native+%7C+MERN+%F0%9F%9A%80;Passionate+about+creating+amazing+apps+%F0%9F%8E%89" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BlackHatDevX?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/BlackHatDevX?label=Stars&style=social" alt="GitHub Stars" />
+  <h1>👋 Hello, I'm Jash Gro</h1>
+  <h3>🚀 Full Stack Developer | Mobile App Developer | Open Source Enthusiast</h3>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=00FF00" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/BlackHatDevX?label=Followers&style=social&color=00FF00" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/BlackHatDevX?label=Stars&style=social&color=00FF00" alt="GitHub Stars" />
+  </div>
 </div>
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const jash = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "React Native", "Vue"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
-        },
-        mobile: ["Flutter", "React Native"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "AWS", "Heroku", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentOccupation: ["Full Stack Developer, open for job opportunities"],
-    challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
----
-
-## 📊 GitHub Stats
+## 🎯 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackHatDevX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHatDevX&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackHatDevX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatDevX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&count_private=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🛠️ What I Do</h3>
+        <p>I'm a passionate Full Stack Developer who loves creating innovative solutions. My expertise spans across web development, mobile apps, and backend systems. I believe in writing clean, efficient code that makes a difference.</p>
+      </td>
+      <td width="50%">
+        <h3>🎯 My Mission</h3>
+        <p>To build scalable applications that solve real-world problems while contributing to the open-source community. I'm always eager to learn new technologies and collaborate on exciting projects.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💻 Tech Stack Overview</h3>
+  <table>
+    <tr>
+      <td><strong>Frontend:</strong></td>
+      <td>React, React Native, Flutter, HTML5, CSS3, JavaScript, TypeScript</td>
+    </tr>
+    <tr>
+      <td><strong>Backend:</strong></td>
+      <td>Node.js, Express.js, Spring Boot, Python, Java</td>
+    </tr>
+    <tr>
+      <td><strong>Database:</strong></td>
+      <td>MongoDB, MySQL, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><strong>Tools:</strong></td>
+      <td>Git, Docker, VS Code, Postman, Figma</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -79,6 +87,15 @@ const jash = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHatDevX&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatDevX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -93,7 +110,6 @@ const jash = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHatDevX&theme=radical&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
-
 ---
 
 ## 📊 Project Statistics
@@ -101,19 +117,11 @@ const jash = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackHatDevX&theme=radical" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackHatDevX&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackHatDevX&theme=radical" alt="Repos Per Language" />
+
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 **Currently Working On**: Full Stack Development
-- 🌱 **Learning**: Advanced React Patterns, System Design
-- 👯 **Looking to Collaborate**: Open Source Projects, Mobile App Development, Web Development
-- 💬 **Ask me about**: Flutter, React Native, MERN Stack, API Development
-
----
 
 ## 📫 Connect With Me
 
@@ -137,19 +145,9 @@ const jash = {
 
 ---
 
-## 🎉 Fun Facts
 
-- ⚡ **Fun fact**: I can debug code while sleeping (not really, but I wish!)
-- 🎯 **Goal**: Contribute to 100+ open source projects
-- 🌟 **Favorite Quote**: "The best error message is the one that never shows up"
-- 🚀 **Currently**: Building amazing apps that make a difference
-
----
 
 <div align="center">
-  <img src="https://github.com/BlackHatDevX/BlackHatDevX/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Typing SVG" />
+  <h3>Thanks for visiting my profile! 😊</h3>
+  <p>Let's connect and collaborate! 🚀</p>
 </div>
