@@ -1,87 +1,155 @@
-### Hi there 👋
-<div style="text-align:center align-items:centre display:flex justify-content:centre">
-
-<div>
-
-# My Projects
-
-<!-- Gif -->
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jash+Gro+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+React+Native+%7C+MERN+%F0%9F%9A%80;Passionate+about+creating+amazing+apps+%F0%9F%8E%89" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BlackHatDevX?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/BlackHatDevX?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const jash = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "Dart", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "React Native", "Vue"],
+            css: ["Bootstrap", "Tailwind", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        mobile: ["Flutter", "React Native"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        devOps: ["Docker", "AWS", "Heroku", "Vercel"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    currentOccupation: ["Full Stack Developer, open for job opportunities"],
+    challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackHatDevX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHatDevX&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatDevX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&count_private=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlackHatDevX&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHatDevX&theme=radical&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 
-### Flutter
+---
 
-1. [Quiz App](https://github.com/BlackHatDevX/Quiz-App-Flutter) - A beautiful and interactive quiz app built using Flutter, supporting both Android and iOS.
-2. [Expense Tracker App](https://github.com/BlackHatDevX/Expense-Tracker-Flutter) - A beautifully designed expense tracker app built with Flutter, offering a seamless and intuitive experience to manage your finances.
-3. [Dice Roller](https://github.com/BlackHatDevX/dice_roller) - A simple dice roller app built using Flutter.
-4. [Coin Tosser App](https://github.com/BlackHatDevX/coin_tosser) - A simple yet engaging coin toss app built using Flutter.
-5. [Dowry Calculator App](https://github.com/BlackHatDevX/Dowry-Calcutator-Flutter) - A fun, meme-style app built using Flutter that calculates dowry amounts based on various inputs like income, land ownership, social media influence, and more.
+## 📊 Project Statistics
 
-### React Native
-
-1. [ytDownloader](https://github.com/BlackHatDevX/ytDownloader-react-native) - A React Native application for downloading YouTube videos.
-2. [MovieDash App](https://github.com/BlackHatDevX/MOVIE-APP-RN) - A movie browsing app built with React Native.
-
-### MERN Stack
-
-1. [QuickBite - Food Delivery App](https://quickbitesjash.web.app/) - A Food Delivery Web App with Stripe Payment Gateway - Source Code is Pvt. for now.
-2. [Chotu.ly - URL Shortner](https://github.com/BlackHatDevX/CHOTU.LY-SHORTNER) - A URL shortening service developed with the MERN stack.
-3. [Quickeyfy - Freelance site](https://github.com/BlackHatDevX/UPI-PAYMENT-GATEWAY-QUIKEYFY) - A freelance platform with integrated UPI payment gateway.
-
-### Java Springboot
-1. [YouTube Video Downloader API](https://github.com/BlackHatDevX/Youtube-Downloader-API-SpringBoot) - This project is a Spring Boot application that provides an API for downloading YouTube videos and serving them via HTTP. 
-
-### Miscellaneous
-
-1.    #### [</>LEETCODE](https://github.com/BlackHatDevX/LeetCode)
-2. [Ai Voice Generator - Modi Edition](https://github.com/BlackHatDevX/Modi-Ai-Voice-Generator) - Pyhthon script which extacts audio from youtube links and convert it into Modi's Voice.
-3. [UPI Payment Gateway](https://github.com/BlackHatDevX/UPI-payment-gateway) - A standalone UPI payment gateway implementation.
-4. [ifsc-Checker](https://github.com/BlackHatDevX/IFSC-checker) - An IFSC code validation tool.
-5. [Weather App](https://github.com/BlackHatDevX/Weather-App-V2) - A weather forecasting application.
-6. [yoFood](https://github.com/BlackHatDevX/YoFood) - A food ordering app.
-7. [Portfolio](https://bit.ly/jashgro) - My personal portfolio website.
-8. [BMI Calculator Plus](https://bit.ly/BMICalculatorPlusV2) - A BMI calculator with additional features.
-9. [onRender Pinger](https://github.com/BlackHatDevX/Render-Pinger) - This tool helps to keep your Render hosting live forever.
-10. [JS-Calendar](https://github.com/BlackHatDevX/Javascript-calendar) - A customizable JavaScript calendar component.
-
- 
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackHatDevX&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackHatDevX&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackHatDevX&theme=radical" alt="Repos Per Language" />
 </div>
 
-## Contact
-Feel free to connect with me if you have any questions, suggestions, or just want to say hello!
+---
 
-- **Portfolio**: [bit.ly/jashgro](https://bit.ly/jashgro)
-- **Telegram**: [@deveIoper_x](https://telegram.dog/deveIoper_x)
-- **LinkedIn**: [Jash Gro](https://www.linkedin.com/in/jash-gro)
-- **Instagram**: [@jash_gro](https://www.instagram.com/jash_gro/)
-- **Twitter**: [@jash_gro](https://twitter.com/jash_gro)
+## 🎯 Current Focus
 
-Let's connect and collaborate!
+- 🔭 **Currently Working On**: Full Stack Development
+- 🌱 **Learning**: Advanced React Patterns, System Design
+- 👯 **Looking to Collaborate**: Open Source Projects, Mobile App Development, Web Development
+- 💬 **Ask me about**: Flutter, React Native, MERN Stack, API Development
 
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://bit.ly/jashgro" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jash-gro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://telegram.dog/deveIoper_x" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://twitter.com/jash_gro" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/jash_gro/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
+---
 
-<!--
-**BlackHatDevX/BlackHatDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎉 Fun Facts
 
-Here are some ideas to get you started:
+- ⚡ **Fun fact**: I can debug code while sleeping (not really, but I wish!)
+- 🎯 **Goal**: Contribute to 100+ open source projects
+- 🌟 **Favorite Quote**: "The best error message is the one that never shows up"
+- 🚀 **Currently**: Building amazing apps that make a difference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github.com/BlackHatDevX/BlackHatDevX/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+connect+and+collaborate!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
