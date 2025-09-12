@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Jash Gro</h1>
-  <h3>🚀 Full Stack Developer | Mobile App Developer | Open Source Enthusiast</h3>
+  <h3>🚀 Full Stack Developer | Mobile App Developer | Open Source Enthusiast | Freelancer</h3>
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=00FF00" alt="Profile Views" />
@@ -24,11 +24,11 @@
     <tr>
       <td width="50%">
         <h3>🛠️ What I Do</h3>
-        <p>I'm a passionate Full Stack Developer who loves creating innovative solutions. My expertise spans across web development, mobile apps, and backend systems. I believe in writing clean, efficient code that makes a difference.</p>
+        <p>I'm a passionate Full Stack Developer and Freelancer who loves creating innovative solutions. My expertise spans web development, mobile apps, and backend systems. I write clean, efficient code that brings ideas to life.</p>
       </td>
       <td width="50%">
         <h3>🎯 My Mission</h3>
-        <p>To build scalable applications that solve real-world problems while contributing to the open-source community. I'm always eager to learn new technologies and collaborate on exciting projects.</p>
+        <p>To build scalable applications that solve real-world problems, contribute to open-source projects, and collaborate with clients on exciting freelance projects. If you have a project, feel free to reach out!</p>
       </td>
     </tr>
   </table>
@@ -87,45 +87,10 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📫 Hire Me / Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackHatDevX&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatDevX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlackHatDevX&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHatDevX&theme=radical&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 📊 Project Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackHatDevX&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackHatDevX&theme=radical" alt="Most Commit Language" />
-
-</div>
-
----
-
-
-## 📫 Connect With Me
-
-<div align="center">
+  <p>I'm available for freelance projects. If you have an idea or project, let's collaborate! 🚀</p>
   <a href="https://bit.ly/jashgro" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
@@ -145,9 +110,7 @@
 
 ---
 
-
-
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
-  <p>Let's connect and collaborate! 🚀</p>
+  <p>Have a project? Let's connect and build something amazing together! 🚀</p>
 </div>
