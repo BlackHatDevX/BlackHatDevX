@@ -1,96 +1,94 @@
 <div align="center">
-  <h1>👋 Hello, I'm Jash Gro</h1>
-  <h3>🚀 Full Stack Developer | Mobile App Developer | Open Source Enthusiast | Freelancer</h3>
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=00FF00" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/BlackHatDevX?label=Followers&style=social&color=00FF00" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/BlackHatDevX?label=Stars&style=social&color=00FF00" alt="GitHub Stars" />
-  </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+I'm+Jash+Gro;I'm+a+Freelancer;I'm+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlackHatDevX&style=flat-square&color=00FF00" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BlackHatDevX?label=Followers&style=social&color=00FF00" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/BlackHatDevX?label=Stars&style=social&color=00FF00" alt="GitHub Stars" />
 </div>
 
 ---
 
-## 🎯 About Me
+<!-- Hero Section with Animated GIF -->
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <h2>🎯 About Me</h2>
+      <p>I'm a passionate <strong>Full Stack Developer</strong> and <strong>Freelancer</strong> who loves creating innovative solutions. My expertise spans web development, mobile apps, and backend systems. I write clean, efficient code that brings ideas to life.</p>
+      <p>💡 <strong>My Mission:</strong> To build scalable applications that solve real-world problems, contribute to open-source projects, and collaborate with clients on exciting freelance projects. If you have a project, feel free to reach out!</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="auto" alt="Coding" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackHatDevX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" />
-</div>
+  <h3>💻 Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
 
-<br>
+  <h3>🚀 Frameworks & Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🛠️ What I Do</h3>
-        <p>I'm a passionate Full Stack Developer and Freelancer who loves creating innovative solutions. My expertise spans web development, mobile apps, and backend systems. I write clean, efficient code that brings ideas to life.</p>
-      </td>
-      <td width="50%">
-        <h3>🎯 My Mission</h3>
-        <p>To build scalable applications that solve real-world problems, contribute to open-source projects, and collaborate with clients on exciting freelance projects. If you have a project, feel free to reach out!</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>💻 Tech Stack Overview</h3>
-  <table>
-    <tr>
-      <td><strong>Frontend:</strong></td>
-      <td>React, React Native, Flutter, HTML5, CSS3, JavaScript, TypeScript</td>
-    </tr>
-    <tr>
-      <td><strong>Backend:</strong></td>
-      <td>Node.js, Express.js, Spring Boot, Python, Java</td>
-    </tr>
-    <tr>
-      <td><strong>Database:</strong></td>
-      <td>MongoDB, MySQL, PostgreSQL</td>
-    </tr>
-    <tr>
-      <td><strong>Tools:</strong></td>
-      <td>Git, Docker, VS Code, Postman, Figma</td>
-    </tr>
-  </table>
+  <h3>🗄️ Databases & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackHatDevX&theme=kanagawa-paper&hide_current_streak=true" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=BlackHatDevX&theme=monokai&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHatDevX&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📫 Hire Me / Connect With Me
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Activity Graph" />
+</div>
+
+---
+
+## 📫 Let's Connect & Hire Me
 
 <div align="center">
-  <p>I'm available for freelance projects. If you have an idea or project, let's collaborate! 🚀</p>
+  <p>I'm available for <strong>freelance projects</strong> and collaborations. Have an idea? Let's bring it to life! 🚀</p>
   <a href="https://bit.ly/jashgro" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
@@ -106,11 +104,17 @@
   <a href="https://www.instagram.com/jash_gro/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <br><br>
+  <a href="mailto:jashgro@yandex.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 😊</h3>
+  <h3>✨ Thanks for stopping by! ✨</h3>
+  <p>⭐️ <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong> – Cory House</p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Thanks gif"/>
   <p>Have a project? Let's connect and build something amazing together! 🚀</p>
 </div>
