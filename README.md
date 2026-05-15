@@ -14,7 +14,10 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <h2>🎯 About Me</h2>
+      <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="20">
+</picture> About Me</h2>
       <p>I'm a passionate <strong>Full Stack Developer</strong> and <strong>Freelancer</strong> who loves creating innovative solutions. My expertise spans web development, mobile apps, and backend systems. I write clean, efficient code that brings ideas to life.</p>
       <p>💡 <strong>My Mission:</strong> To build scalable applications that solve real-world problems, contribute to open-source projects, and collaborate with clients on exciting freelance projects. If you have a project, feel free to reach out!</p>
     </td>
@@ -26,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <p> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="32" height="32"> </picture> Tech Stack & Tools </p>
 
 <div align="center">
   <h3>💻 Languages</h3>
@@ -63,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <p> <picture>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32"> </picture> GitHub Analytics </p>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackHatDevX&theme=kanagawa-paper&hide_current_streak=true" alt="GitHub Streak" /></a>
@@ -77,18 +80,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackHatDevX&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
----
+## 📫 Let's Connect 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Activity Graph" />
-</div>
-
----
-
-## 📫 Let's Connect & Hire Me
-
-<div align="center">
-  <p>I'm available for <strong>freelance projects</strong> and collaborations. Have an idea? Let's bring it to life! 🚀</p>
   <a href="https://bit.ly/jashgro" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
@@ -110,11 +104,17 @@
   </a>
 </div>
 
----
-
 <div align="center">
-  <h3>✨ Thanks for stopping by! ✨</h3>
-  <p>⭐️ <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong> – Cory House</p>
+  <h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> Thanks for stopping by! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture></h3>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Thanks gif"/>
-  <p>Have a project? Let's connect and build something amazing together! 🚀</p>
+  <p>Have a project? Let's connect and build something amazing together! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="24" height="24">
+</picture> </p>
 </div>
